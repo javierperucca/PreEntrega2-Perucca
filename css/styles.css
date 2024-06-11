@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+h1 {
+    color: #b40000;
+}
+
+#simulador {
+    margin: 20px auto;
+    width: 300px;
+    text-align: left;
+}
+
+label, input, select {
+    display: block;
+    margin: 10px 0;
+    width: 100%;
+}
+
+button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+}
+
+#resultado {
+    margin-top: 20px;
+    font-size: 1.2em;
+}
